@@ -1,6 +1,6 @@
 # Empezando proyecto espacial
 
-Iniciamos eñ proyecto con el comando:
+Iniciamos el proyecto con el comando:
 
 ```Shell
 symfony new app-espacio
